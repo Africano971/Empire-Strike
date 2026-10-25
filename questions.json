@@ -1,0 +1,1002 @@
+[
+ {
+  "level": "facile",
+  "q": "Les sabres laser des Sith sont généralement de quelle couleur ?",
+  "a": [
+   "Rouge",
+   "Bleu",
+   "Vert",
+   "Violet"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Comment s'appelle le petit droïde bleu et blanc qui communique par des bips ?",
+  "a": [
+   "R2-D2",
+   "C-3PO",
+   "BB-8",
+   "K-2SO"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Comment s'appelle le droïde doré qui parle plus de six millions de langues ?",
+  "a": [
+   "C-3PO",
+   "R2-D2",
+   "BB-8",
+   "IG-11"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Quelle est l'arme lumineuse emblématique des Jedi ?",
+  "a": [
+   "Le sabre laser",
+   "Le blaster",
+   "L'arbalète laser",
+   "Le fouet électrique"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Comment s'appelle l'énergie mystique utilisée par les Jedi ?",
+  "a": [
+   "La Force",
+   "La Matrice",
+   "Le Flux",
+   "L'Aura"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Comment s'appellent les soldats en armure blanche de l'Empire ?",
+  "a": [
+   "Les stormtroopers",
+   "Les Ewoks",
+   "Les Jawas",
+   "Les Gungans"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Complète la célèbre formule : « Que la Force soit… »",
+  "a": [
+   "avec toi",
+   "en toi",
+   "pour toi",
+   "sur toi"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Comment s'appelle le vieux maître Jedi vert qui parle à l'envers ?",
+  "a": [
+   "Yoda",
+   "Mace Windu",
+   "Qui-Gon Jinn",
+   "Obi-Wan Kenobi"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Comment s'appelle le vaisseau de Han Solo ?",
+  "a": [
+   "Le Faucon Millenium",
+   "L'Étoile de la Mort",
+   "Le Destroyer stellaire",
+   "Le X-wing"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Quel grand personnage poilu est le copilote de Han Solo ?",
+  "a": [
+   "Chewbacca",
+   "Jabba",
+   "Greedo",
+   "Wicket"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Qui utilise le côté obscur de la Force ?",
+  "a": [
+   "Les Sith",
+   "Les Jedi",
+   "Les Ewoks",
+   "Les droïdes"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Comment s'appelle la station spatiale de l'Empire capable de détruire une planète ?",
+  "a": [
+   "L'Étoile de la Mort",
+   "Le Faucon Millenium",
+   "La Base Starkiller",
+   "Coruscant"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Dans la scène culte, Dark Vador révèle à Luke qu'il est son…",
+  "a": [
+   "Père",
+   "Oncle",
+   "Frère",
+   "Grand-père"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Quel petit personnage vert surnommé « Bébé Yoda » voyage avec le Mandalorien ?",
+  "a": [
+   "Grogu",
+   "Yoda",
+   "Babu Frik",
+   "Nien Nunb"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Quelle princesse porte une célèbre coiffure en deux macarons ?",
+  "a": [
+   "Leia",
+   "Padmé",
+   "Rey",
+   "Jyn"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Comment s'appellent les petites créatures en forme d'ours en peluche de la lune d'Endor ?",
+  "a": [
+   "Les Ewoks",
+   "Les Wookiees",
+   "Les Jawas",
+   "Les Porgs"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Dans Star Wars, qu'est-ce qu'un blaster ?",
+  "a": [
+   "Un pistolet laser",
+   "Un vaisseau",
+   "Un droïde",
+   "Une planète"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Quel était le titre français du tout premier film, sorti en 1977 ?",
+  "a": [
+   "La Guerre des étoiles",
+   "La Bataille des étoiles",
+   "Le Combat des galaxies",
+   "Les Chevaliers de l'espace"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Quel compositeur a écrit la musique de Star Wars ?",
+  "a": [
+   "John Williams",
+   "Hans Zimmer",
+   "Ennio Morricone",
+   "Danny Elfman"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Qui a créé Star Wars ?",
+  "a": [
+   "George Lucas",
+   "Steven Spielberg",
+   "James Cameron",
+   "Ridley Scott"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Comment s'appelle le chasseur rebelle dont les ailes forment un X ?",
+  "a": [
+   "Le X-wing",
+   "Le TIE",
+   "Le Y-wing",
+   "Le Faucon"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Qu'est-ce qui rend Dark Vador reconnaissable même sans le voir ?",
+  "a": [
+   "Sa respiration bruyante",
+   "Son rire",
+   "Son sifflement",
+   "Sa chanson"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Quelle entreprise possède Star Wars depuis 2012 ?",
+  "a": [
+   "Disney",
+   "Warner Bros.",
+   "Universal",
+   "Sony"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Comment appelle-t-on le héros en armure de la série The Mandalorian ?",
+  "a": [
+   "Le Mandalorien",
+   "Le Chasseur",
+   "Le Chevalier",
+   "Le Pilote"
+  ]
+ },
+ {
+  "level": "facile",
+  "q": "Complète : « Il y a bien longtemps, dans une galaxie… »",
+  "a": [
+   "lointaine, très lointaine",
+   "proche, très proche",
+   "inconnue, très inconnue",
+   "perdue, très perdue"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quel est le vrai nom de Dark Vador ?",
+  "a": [
+   "Anakin Skywalker",
+   "Obi-Wan Kenobi",
+   "Ben Solo",
+   "Owen Lars"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Sur quelle planète désertique Luke a-t-il grandi ?",
+  "a": [
+   "Tatooine",
+   "Hoth",
+   "Naboo",
+   "Endor"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Sur quelle planète glacée se cache la base rebelle au début de L'Empire contre-attaque ?",
+  "a": [
+   "Hoth",
+   "Tatooine",
+   "Dagobah",
+   "Bespin"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Qui entraîne Luke sur la planète marécageuse Dagobah ?",
+  "a": [
+   "Yoda",
+   "Obi-Wan Kenobi",
+   "Qui-Gon Jinn",
+   "Mace Windu"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Qui est la sœur jumelle de Luke ?",
+  "a": [
+   "Leia",
+   "Padmé",
+   "Rey",
+   "Mon Mothma"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Dans quoi Han Solo est-il congelé dans L'Empire contre-attaque ?",
+  "a": [
+   "De la carbonite",
+   "De la glace",
+   "Du bacta",
+   "De l'ambre"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quel gangster de Tatooine expose Han Solo congelé dans son palais ?",
+  "a": [
+   "Jabba le Hutt",
+   "Greedo",
+   "Boba Fett",
+   "Watto"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Qui précipite l'Empereur Palpatine dans le vide dans Le Retour du Jedi ?",
+  "a": [
+   "Dark Vador",
+   "Luke Skywalker",
+   "Han Solo",
+   "Leia"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Comment s'appelle le maître d'Obi-Wan dans La Menace fantôme ?",
+  "a": [
+   "Qui-Gon Jinn",
+   "Yoda",
+   "Mace Windu",
+   "Comte Dooku"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quel Sith au visage rouge et noir affronte Qui-Gon et Obi-Wan ?",
+  "a": [
+   "Dark Maul",
+   "Dark Sidious",
+   "Comte Dooku",
+   "Kylo Ren"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quelle reine de Naboo épouse secrètement Anakin ?",
+  "a": [
+   "Padmé Amidala",
+   "Leia Organa",
+   "Shmi Skywalker",
+   "Mon Mothma"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Qui est le père de Kylo Ren ?",
+  "a": [
+   "Han Solo",
+   "Luke Skywalker",
+   "Lando Calrissian",
+   "Poe Dameron"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Comment s'appelle le droïde sphérique orange et blanc du Réveil de la Force ?",
+  "a": [
+   "BB-8",
+   "R2-D2",
+   "D-O",
+   "K-2SO"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quelle course le jeune Anakin remporte-t-il pour gagner sa liberté ?",
+  "a": [
+   "Une course de modules",
+   "Une course de X-wing",
+   "Une course de chasseurs TIE",
+   "Une course de banthas"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quel ordre retourne les soldats clones contre les Jedi ?",
+  "a": [
+   "L'Ordre 66",
+   "L'Ordre 99",
+   "L'Ordre 501",
+   "L'Ordre 1138"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Qui tranche la main de Luke lors de leur duel sur Bespin ?",
+  "a": [
+   "Dark Vador",
+   "Boba Fett",
+   "L'Empereur",
+   "Kylo Ren"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Sur quelle planète volcanique Obi-Wan et Anakin s'affrontent-ils dans La Revanche des Sith ?",
+  "a": [
+   "Mustafar",
+   "Tatooine",
+   "Coruscant",
+   "Utapau"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quel chasseur de primes livre Han Solo congelé à Jabba ?",
+  "a": [
+   "Boba Fett",
+   "Jango Fett",
+   "Bossk",
+   "Greedo"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Comment s'appelle le Suprême Leader du Premier Ordre dans Le Réveil de la Force ?",
+  "a": [
+   "Snoke",
+   "Hux",
+   "Phasma",
+   "Palpatine"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "De quelle planète désertique vient Rey ?",
+  "a": [
+   "Jakku",
+   "Tatooine",
+   "Geonosis",
+   "Exegol"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Qui détruit la première Étoile de la Mort ?",
+  "a": [
+   "Luke Skywalker",
+   "Han Solo",
+   "Wedge Antilles",
+   "Lando Calrissian"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quel ancien stormtrooper devient l'allié de Rey ?",
+  "a": [
+   "Finn",
+   "Poe",
+   "Hux",
+   "Rose"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quel est le métier de Han Solo au début de la saga ?",
+  "a": [
+   "Contrebandier",
+   "Chevalier Jedi",
+   "Sénateur",
+   "Fermier"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quel amiral rebelle s'exclame « C'est un piège ! » ?",
+  "a": [
+   "L'amiral Ackbar",
+   "L'amiral Holdo",
+   "L'amiral Piett",
+   "L'amiral Raddus"
+  ]
+ },
+ {
+  "level": "moyen",
+  "q": "Quel est le titre de l'Épisode I ?",
+  "a": [
+   "La Menace fantôme",
+   "L'Attaque des clones",
+   "Un nouvel espoir",
+   "Le Réveil de la Force"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Comment s'appelle le droïde impérial reprogrammé dans Rogue One ?",
+  "a": [
+   "K-2SO",
+   "IG-88",
+   "C1-10P",
+   "L3-37"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Qui a conçu l'Étoile de la Mort et y a caché une faille, selon Rogue One ?",
+  "a": [
+   "Galen Erso",
+   "Orson Krennic",
+   "Saw Gerrera",
+   "Wilhuff Tarkin"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Comment s'appelle la padawan d'Anakin dans The Clone Wars ?",
+  "a": [
+   "Ahsoka Tano",
+   "Barriss Offee",
+   "Aayla Secura",
+   "Asajj Ventress"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Quelle arme mandalorienne ancestrale Moff Gideon possède-t-il dans The Mandalorian ?",
+  "a": [
+   "Le sabre noir",
+   "Le sabre double",
+   "Le beskar sacré",
+   "La lance de Mandalore"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Quel est le matricule du Capitaine Rex ?",
+  "a": [
+   "CT-7567",
+   "CC-2224",
+   "CT-5555",
+   "CC-1010"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Comment s'appelle le vaisseau de l'équipage dans Star Wars Rebels ?",
+  "a": [
+   "Le Ghost",
+   "Le Razor Crest",
+   "L'Outrider",
+   "L'Ebon Hawk"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Quel jeune héros sensible à la Force est le personnage principal de Star Wars Rebels ?",
+  "a": [
+   "Ezra Bridger",
+   "Cal Kestis",
+   "Kanan Jarrus",
+   "Ben Quadinaros"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Comment s'appelle le héros du jeu Star Wars Jedi: Fallen Order ?",
+  "a": [
+   "Cal Kestis",
+   "Starkiller",
+   "Kyle Katarn",
+   "Ezra Bridger"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Comment s'appelle le petit droïde qui accompagne Cal Kestis ?",
+  "a": [
+   "BD-1",
+   "D-O",
+   "R5-D4",
+   "Chopper"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Quel grand amiral chiss à la peau bleue affronte les rebelles dans Rebels ?",
+  "a": [
+   "Thrawn",
+   "Tarkin",
+   "Piett",
+   "Pellaeon"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Sur quelle planète vit Cassian au début de la série Andor ?",
+  "a": [
+   "Ferrix",
+   "Jedha",
+   "Scarif",
+   "Aldhani"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Quel est le vrai nom du Mandalorien ?",
+  "a": [
+   "Din Djarin",
+   "Bo-Katan Kryze",
+   "Paz Vizsla",
+   "Jango Fett"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Comment appelle-t-on les chasseurs de Jedi au service de l'Empire ?",
+  "a": [
+   "Les Inquisiteurs",
+   "Les Gardes rouges",
+   "Les Purgeurs",
+   "Les Chevaliers de Ren"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Quel chasseur de primes au grand chapeau traque les Jedi dans The Clone Wars ?",
+  "a": [
+   "Cad Bane",
+   "Bossk",
+   "Embo",
+   "Aurra Sing"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Quel Sith revient avec des jambes mécaniques dans The Clone Wars ?",
+  "a": [
+   "Dark Maul",
+   "Comte Dooku",
+   "Savage Opress",
+   "Général Grievous"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Sur quelle planète Boba Fett prend-il le pouvoir dans Le Livre de Boba Fett ?",
+  "a": [
+   "Tatooine",
+   "Nevarro",
+   "Mandalore",
+   "Kamino"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Qui est le « père » de Boba Fett, dont il est un clone ?",
+  "a": [
+   "Jango Fett",
+   "Din Djarin",
+   "Cad Bane",
+   "Fennec Shand"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Sur quelle planète océanique l'armée des clones est-elle créée ?",
+  "a": [
+   "Kamino",
+   "Mon Cala",
+   "Scarif",
+   "Naboo"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Dans quelle légion le Capitaine Rex sert-il ?",
+  "a": [
+   "La 501e",
+   "La 212e",
+   "La 104e",
+   "La 327e"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Comment s'appelle la jeune clone qui accompagne l'escouade dans The Bad Batch ?",
+  "a": [
+   "Omega",
+   "Echo",
+   "Hunter",
+   "Crosshair"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Dans le jeu Knights of the Old Republic, quel Seigneur Sith était le personnage du joueur ?",
+  "a": [
+   "Dark Revan",
+   "Dark Malak",
+   "Dark Nihilus",
+   "Dark Bane"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Quel droïde assassin aime traiter les humains de « sacs de viande » dans KOTOR ?",
+  "a": [
+   "HK-47",
+   "IG-88",
+   "4-LOM",
+   "BT-1"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Comment s'appelle la Troisième Sœur dans la série Obi-Wan Kenobi ?",
+  "a": [
+   "Reva",
+   "Trilla",
+   "Ventress",
+   "Morgan"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Quel général cyborg collectionne les sabres laser des Jedi qu'il a vaincus ?",
+  "a": [
+   "Le général Grievous",
+   "Le comte Dooku",
+   "Le général Hux",
+   "Le grand moff Tarkin"
+  ]
+ },
+ {
+  "level": "difficile",
+  "q": "Comment s'appelle la droïde copilote de Lando dans Solo ?",
+  "a": [
+   "L3-37",
+   "K-2SO",
+   "IG-11",
+   "BB-9E"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Qui a infligé à Anakin sa cicatrice à l'œil, dans la série animée Clone Wars (2003) ?",
+  "a": [
+   "Asajj Ventress",
+   "Le comte Dooku",
+   "Le général Grievous",
+   "Dark Maul"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Qui était le maître Jedi de Kanan Jarrus ?",
+  "a": [
+   "Depa Billaba",
+   "Plo Koon",
+   "Kit Fisto",
+   "Shaak Ti"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Comment appelle-t-on le procédé qui rend rouge un cristal kyber ?",
+  "a": [
+   "Le saignement",
+   "La corruption",
+   "La fusion",
+   "L'éclipse"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Quel maître Jedi a commandé en secret l'armée des clones ?",
+  "a": [
+   "Sifo-Dyas",
+   "Yaddle",
+   "Ki-Adi-Mundi",
+   "Even Piell"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Qui était le maître Sith de Palpatine ?",
+  "a": [
+   "Dark Plagueis",
+   "Dark Bane",
+   "Dark Tyranus",
+   "Dark Revan"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Quel est le prénom de Palpatine ?",
+  "a": [
+   "Sheev",
+   "Cosinga",
+   "Darth",
+   "Arkady"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Quelle est la planète natale de Palpatine ?",
+  "a": [
+   "Naboo",
+   "Coruscant",
+   "Exegol",
+   "Mustafar"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Qui tue Jango Fett sur Geonosis ?",
+  "a": [
+   "Mace Windu",
+   "Obi-Wan Kenobi",
+   "Yoda",
+   "Anakin Skywalker"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Quel est le matricule du commandant Cody ?",
+  "a": [
+   "CC-2224",
+   "CT-7567",
+   "CC-1010",
+   "CC-3636"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "De quelle espèce est le maître Jedi Plo Koon ?",
+  "a": [
+   "Kel Dor",
+   "Togruta",
+   "Nautolan",
+   "Zabrak"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "De quelle couleur sont les sabres laser d'Ahsoka lors de son retour dans Rebels ?",
+  "a": [
+   "Blancs",
+   "Verts",
+   "Bleus",
+   "Jaunes"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Quelle duchesse pacifiste dirige Mandalore dans The Clone Wars ?",
+  "a": [
+   "Satine Kryze",
+   "Bo-Katan Kryze",
+   "Sabine Wren",
+   "Ursa Wren"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Qui tue la duchesse Satine sous les yeux d'Obi-Wan ?",
+  "a": [
+   "Dark Maul",
+   "Pré Vizsla",
+   "Savage Opress",
+   "Le comte Dooku"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Comment s'appelle le frère de Dark Maul ?",
+  "a": [
+   "Savage Opress",
+   "Feral",
+   "Pré Vizsla",
+   "Kalani"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "À quel clan de sorcières de Dathomir appartient Mère Talzin ?",
+  "a": [
+   "Les Sœurs de la Nuit",
+   "Les Frères de la Nuit",
+   "Les Sœurs de l'Ombre",
+   "Le Cercle de sang"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Quel chasseur de primes trandoshan Dark Vador convoque-t-il dans L'Empire contre-attaque ?",
+  "a": [
+   "Bossk",
+   "Dengar",
+   "Zuckuss",
+   "4-LOM"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Sur quelle planète Ahsoka Tano est-elle née ?",
+  "a": [
+   "Shili",
+   "Kiros",
+   "Ryloth",
+   "Dathomir"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Quel droïde médical soigne Luke après son attaque par un wampa ?",
+  "a": [
+   "2-1B",
+   "FX-7",
+   "AZI-3",
+   "IG-RM"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Comment s'appelle le gardien qui pleure la mort du rancor de Jabba ?",
+  "a": [
+   "Malakili",
+   "Bib Fortuna",
+   "Ephant Mon",
+   "Salacious Crumb"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Comment s'appelait à l'origine le vaisseau de Boba Fett ?",
+  "a": [
+   "Slave I",
+   "Firespray",
+   "Mandalore's Pride",
+   "Hound's Tooth"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "À quel âge Yoda meurt-il ?",
+  "a": [
+   "900 ans",
+   "800 ans",
+   "1 000 ans",
+   "700 ans"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Comment s'appelle le maître Jedi nautolan aux tentacules verts, tué par Palpatine ?",
+  "a": [
+   "Kit Fisto",
+   "Saesee Tiin",
+   "Agen Kolar",
+   "Eeth Koth"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Comment s'appelle l'apprenti secret de Dark Vador dans le jeu Le Pouvoir de la Force ?",
+  "a": [
+   "Galen Marek",
+   "Cal Kestis",
+   "Kyle Katarn",
+   "Jaden Korr"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Comment s'appelle la bibliothécaire des archives Jedi ?",
+  "a": [
+   "Jocasta Nu",
+   "Yaddle",
+   "Shaak Ti",
+   "Luminara Unduli"
+  ]
+ },
+ {
+  "level": "expert",
+  "q": "Quel Hutt est l'oncle de Jabba dans The Clone Wars ?",
+  "a": [
+   "Ziro",
+   "Gardulla",
+   "Rotta",
+   "Marlo"
+  ]
+ }
+]
