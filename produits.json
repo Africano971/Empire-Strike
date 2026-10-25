@@ -1,102 +1,137 @@
 [
  {
-  "nom": "Pin's collector",
-  "prix": 9.99,
-  "image": ""
+  "nom": "Casque de stormtrooper",
+  "prix": 35,
+  "image": "produits/p01.webp"
  },
  {
-  "nom": "Porte-clés sabre laser",
-  "prix": 12.99,
-  "image": ""
+  "nom": "Diorama Mandalorien et Grogu",
+  "prix": 49,
+  "image": "produits/p02.webp"
  },
  {
-  "nom": "Cristal kyber lumineux",
-  "prix": 14.99,
-  "image": ""
+  "nom": "Coffret figurines Sith & Jedi",
+  "prix": 35,
+  "image": "produits/p03.webp"
  },
  {
-  "nom": "Lunch box Empire",
-  "prix": 17.99,
-  "image": ""
+  "nom": "Lot de 4 droïdes BDX",
+  "prix": 45,
+  "image": "produits/p04.webp"
+ },
+ {
+  "nom": "Vaisseau N-1 du Mandalorien",
+  "prix": 15,
+  "image": "produits/p05.webp"
  },
  {
   "nom": "Mug Dark Vador",
-  "prix": 19.99,
-  "image": ""
+  "prix": 22,
+  "image": "produits/p06.webp"
  },
  {
-  "nom": "Gourde Faucon Millenium",
-  "prix": 22.99,
-  "image": ""
+  "nom": "Gourde Grogu",
+  "prix": 12,
+  "image": "produits/p07.webp"
  },
  {
-  "nom": "Casquette Rébellion",
-  "prix": 24.99,
-  "image": ""
+  "nom": "Coupelle Grogu",
+  "prix": 30,
+  "image": "produits/p08.webp"
  },
  {
-  "nom": "T-shirt Empire",
-  "prix": 27.99,
-  "image": ""
+  "nom": "Veste polaire Star Wars",
+  "prix": 60,
+  "image": "produits/p09.webp"
+ },
+ {
+  "nom": "T-shirt Boonta Eve",
+  "prix": 36,
+  "image": "produits/p10.webp"
+ },
+ {
+  "nom": "Pin's « Mon premier pin's »",
+  "prix": 9,
+  "image": "produits/p11.webp"
+ },
+ {
+  "nom": "Carte postale Hyperspace Mountain",
+  "prix": 2,
+  "image": "produits/p12.webp"
+ },
+ {
+  "nom": "Sucette Grogu",
+  "prix": 4,
+  "image": "produits/p13.webp"
  },
  {
   "nom": "Peluche Grogu",
-  "prix": 29.99,
-  "image": ""
+  "prix": 35,
+  "image": "produits/p14.webp"
  },
  {
-  "nom": "Coussin BB-8",
-  "prix": 32.99,
-  "image": ""
+  "nom": "Sabre laser bleu",
+  "prix": 45,
+  "image": "produits/p15.webp"
  },
  {
-  "nom": "Figurine Stormtrooper",
-  "prix": 34.99,
-  "image": ""
+  "nom": "Figurine parlante Dark Vador",
+  "prix": 35,
+  "image": "produits/p16.webp"
  },
  {
-  "nom": "Cape Jedi enfant",
-  "prix": 36.99,
-  "image": ""
+  "nom": "Funko Pop Chewbacca",
+  "prix": 16,
+  "image": "produits/p17.webp"
  },
  {
-  "nom": "Sabre laser jouet",
-  "prix": 39.99,
-  "image": ""
+  "nom": "Bonnet Grogu",
+  "prix": 28,
+  "image": "produits/p18.webp"
  },
  {
-  "nom": "Peluche Chewbacca",
-  "prix": 42.99,
-  "image": ""
+  "nom": "Boîte à bonbons Donald",
+  "prix": 1.5,
+  "image": "produits/p19.webp"
  },
  {
-  "nom": "Holocron lumineux",
-  "prix": 44.99,
-  "image": ""
+  "nom": "Lithographie Mandalorien et Grogu",
+  "prix": 17,
+  "image": "produits/p20.webp"
  },
  {
-  "nom": "Casque Dark Vador enfant",
-  "prix": 49.99,
-  "image": ""
+  "nom": "Grogu interactif",
+  "prix": 85,
+  "image": "produits/p21.webp"
  },
  {
-  "nom": "Sweat Mandalorien",
-  "prix": 59.99,
-  "image": ""
+  "nom": "R2-D2 interactif",
+  "prix": 50,
+  "image": "produits/p22.webp"
  },
  {
-  "nom": "Maquette X-wing",
-  "prix": 69.99,
-  "image": ""
+  "nom": "Casque de pilote rebelle",
+  "prix": 50,
+  "image": "produits/p23.webp"
  },
  {
-  "nom": "Droïde R2-D2 télécommandé",
-  "prix": 89.99,
-  "image": ""
+  "nom": "Set de 2 tasses à café",
+  "prix": 30,
+  "image": "produits/p24.webp"
  },
  {
-  "nom": "Sabre laser de collection",
-  "prix": 149.99,
-  "image": ""
+  "nom": "Encyclopédie des personnages",
+  "prix": 19.95,
+  "image": "produits/p25.webp"
+ },
+ {
+  "nom": "Faucon Millenium en métal",
+  "prix": 20,
+  "image": "produits/p26.webp"
+ },
+ {
+  "nom": "Méga coffret de figurines",
+  "prix": 65,
+  "image": "produits/p27.webp"
  }
 ]
